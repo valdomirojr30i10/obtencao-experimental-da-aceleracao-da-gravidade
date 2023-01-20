@@ -1,5 +1,3 @@
-altura: 0.84m, tempo: 0.41s, desvio padr„o: 0.02s
-altura: 1.05m, tempo: 0.45s, desvio padr„o: 0.02s
-altura: 1.24m, tempo: 0.52s, desvio padr„o: 0.02s
-altura: 1.88m, tempo: 0.61s, desvio padr„o: 0.01s
-altura: 2.19m, tempo: 0.66s, desvio padr„o: 0.03s
+Jogando um objeto de diversas alturas, pretende-se obter o valor da acelera√ß√£o da gravidade. Desenvolvido em python
+
+Rode primeiramente o arquivo 'reducao_dos_dados_experimentais.py', e logo ap√≥s, rode o arquivo 'trabalho_final.py'
